@@ -4,6 +4,11 @@ By Myoung
 The pourpose if this app is to provide a meal planner for the week and an ingreadience
 list to go shopping for the meals
 '''
+#  ------- Github --------
+
+pip install -r requirements.txt
+setup.py
+
 #  ------- Imports --------
 
 from random import choice
