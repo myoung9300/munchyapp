@@ -6,8 +6,6 @@ list to go shopping for the meals
 '''
 #  ------- Github --------
 
-pip install -r requirements.txt
-setup.py
 
 #  ------- Imports --------
 
